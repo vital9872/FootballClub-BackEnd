@@ -1,0 +1,12 @@
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\bin\Debug\netcoreapp3.1\Football.DAL.deps.json
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\bin\Debug\netcoreapp3.1\Football.DAL.dll
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.csprojAssemblyReference.cache
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.AssemblyInfoInputs.cache
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.AssemblyInfo.cs
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\bin\Debug\netcoreapp3.1\Football.DAL.pdb
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.dll
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.pdb
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\bin\Debug\netcoreapp3.1\Football.DAL.runtimeconfig.json
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\bin\Debug\netcoreapp3.1\Football.DAL.runtimeconfig.dev.json
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.csproj.CoreCompileInputs.cache
+E:\3.1\SD\kpz\Lab6\Football.API\Football.DAL\obj\Debug\netcoreapp3.1\Football.DAL.genruntimeconfig.cache

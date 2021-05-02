@@ -1,0 +1,12 @@
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\bin\Debug\netcoreapp3.1\TestDbFirst.deps.json
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\bin\Debug\netcoreapp3.1\TestDbFirst.dll
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\bin\Debug\netcoreapp3.1\TestDbFirst.pdb
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.csprojAssemblyReference.cache
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.AssemblyInfoInputs.cache
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.AssemblyInfo.cs
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.dll
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.pdb
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\bin\Debug\netcoreapp3.1\TestDbFirst.runtimeconfig.json
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\bin\Debug\netcoreapp3.1\TestDbFirst.runtimeconfig.dev.json
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.genruntimeconfig.cache
+E:\3.1\SD\kpz\Lab6\Football.API\TestDbFirst\obj\Debug\netcoreapp3.1\TestDbFirst.csproj.CoreCompileInputs.cache
